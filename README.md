@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **React**
-- 🌱 I’m currently learning... **Machine Learning**
+- 🌱 I’m currently learning... **Everything**
 - ✌  Forever Learner
 - 👯 I’m looking to collaborate on **React, Machine Learning**
 - 🤔 I’m looking for help with **CSS**
