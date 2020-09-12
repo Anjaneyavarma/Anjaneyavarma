@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: anjivarma.penmatsa@gmail.com
 - 😄 Pronouns: Anjan/ varma
-- ⚡ Fun fact: I'm half fininsh
+
 
