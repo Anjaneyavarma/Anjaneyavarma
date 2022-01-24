@@ -1,4 +1,4 @@
-### HI there ![](https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif)
+### HI there ![Demo](https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif)
 
 
 Here are some ideas to get you started:
