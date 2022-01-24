@@ -1,4 +1,5 @@
 ### HI there ![Demo](https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif)
+![test image size]<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="400" height="790">
 
 
 Here are some ideas to get you started:
