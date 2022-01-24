@@ -1,4 +1,4 @@
-### Hola 👋
+### HI there https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif
 
 
 Here are some ideas to get you started:
