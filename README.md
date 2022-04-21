@@ -3,12 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Full Stack Java Developer**
-- 🌱 I’m currently learning... **ML, Data Science**
+- 🔭 I’m currently working on **Java Full Stack Developer**
+- 💻 **Tata Consultancy Services**
 - ✌  Forever Learner
-- 👯 I’m looking to collaborate on **Full Stack Development**
 - 💬 Ask me about anything
 - 📫 How to reach me: anjivarma.penmatsa@gmail.com
 - 😄 Pronouns: Anjan/ Varma
-
-
