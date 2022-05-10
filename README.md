@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Java Full Stack Developer**
-- 💻 **Tata Consultancy Services**
+- 🔭 I’m currently working on **Java - Full Stack Developer**
+- 💻 **Synchrony**
 - ✌  Forever Learner
 - 💬 Ask me about anything
 - 📫 How to reach me: anjivarma.penmatsa@gmail.com
