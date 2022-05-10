@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 💻 **Synchrony**
 - ✌  Forever Learner
 - 💬 Ask me about anything
+- 💻 Blog: https://thedailycodebeans.blogspot.com/
 - 📫 How to reach me: anjivarma.penmatsa@gmail.com
 - 🤹‍♀️ For quick Bio: https://anjaneyavarma.me
 - 😄 Pronouns: Anjan/ Varma
