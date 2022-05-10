@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - ✌  Forever Learner
 - 💬 Ask me about anything
 - 📫 How to reach me: anjivarma.penmatsa@gmail.com
-- 🤹‍♀️ For quick Bio: anjaneyavarma.me
+- 🤹‍♀️ For quick Bio: https://anjaneyavarma.me
 - 😄 Pronouns: Anjan/ Varma
