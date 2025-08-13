@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as **Java - Full Stack Developer**
-- 💻 **Synchrony**
+- 💻 **CRISIL**
 - ✌  Forever Learner
 - 💬 Ask me about anything
 - 💻 Blog: (https://medium.com/@anjivarma.penmatsa)
